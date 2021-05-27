@@ -10,6 +10,6 @@
 
 How to Run:
 
-`g++ tsp.cpp -o tsp`
+`make`
 
 `./tsp < input`

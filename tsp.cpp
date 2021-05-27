@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
+
 int n;
 vector<vector<int> > population;
 int population_size = 100;
